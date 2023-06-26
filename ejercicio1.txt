@@ -1,4 +1,4 @@
 
 El empleado Gabriel, de apellido: Rosendorn con su email:gabriel@gmail.com
-El empleado Ramiro, de apellido: Correo con su email:corra@gmail.com
-El empleado Julian Galdamez, de apellido: Galdamez con su email:gal@gmail.com
+El empleado Ramiro, de apellido: Corra con su email:corra@gmail.com
+El empleado Julian, de apellido: Galdamez con su email:gald@gmail.com

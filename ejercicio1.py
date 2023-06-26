@@ -4,7 +4,7 @@ apellido = ('')
 email = ('')
 opc = 1
 
-while opc >= 1 and opc <= 3:
+while opc != 3:
     print('\n1: Ingresar nombre, apellido y mail del empleado')
     print('2: Mostrar los empleados ingresados hasta el momento')
     print('3: Salir y mostrar todos los empleados\n')
